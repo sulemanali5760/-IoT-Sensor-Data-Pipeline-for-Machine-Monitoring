@@ -1,6 +1,6 @@
 # IoT-Sensor-Data-Pipeline-for-Machine-Monitoring
 
-![Header Banner](./assets/header_banner.png)
+
 
 ## Overview
 
